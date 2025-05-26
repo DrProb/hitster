@@ -1,7 +1,7 @@
 import os
 import shlex
 
-min = 1960
+min = 1958
 max = 2025
 
 if open("liste.txt").read() == "":
