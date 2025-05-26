@@ -1,13 +1,13 @@
 1958:
 - Johnny B. Goode
-- 
+- Hound Dog
 - 
 1959:
 - Put Your Head on My Shoulder
 - 
 - 
 1960: 
-- 
+- Misirlou
 - 
 - 
 1961: 
@@ -31,8 +31,8 @@
 - 
 - 
 1966: 
-- 
-- 
+- Under My Thumb
+- Taxman
 - 
 1967: 
 - Sunshine of Your Love
@@ -41,16 +41,18 @@
 - Cant Take My Eyes Off You
 1968: 
 - While My Guitar Gently Weeps
-- 
-- 
+- Wichita Lineman
+- Lucille
+- Hush
 1969: 
 - My Way
-- 
-- 
+- 21st Century Schizoid Man
+- Ramblin On
+- Monkey Man
 1970: 
 - Lucky Man
-- 
-- 
+- Ripple
+- My Sweet Lord
 1971: 
 - Stairway To Heaven
 - 
@@ -58,45 +60,48 @@
 1972: 
 - Starman
 - Smoke On The Water
-- 
+- Do It Again
 1973: 
 - Free Bird
 - Live And Let Die
 - Knockin  on Heaven s Door
+- The Rain Song
 1974: 
-- 
-- 
+- Youre no Good
+- Working Man
 - 
 1975: 
-- 
-- 
-- 
+- Fame
+- One of These Nights
+- Sweet Emotion
 1976: 
 - Take The Money And Run
-- 
+- Couldnt Get It Right
 - 
 1977: 
-- 
-- 
-- 
+- Vienna
+- Bat out of Hell
+- Movin Out
 1978: 
 - Baker Street
 - Big Shot
 - Copacabana
+- Grease
+- Georgy Porgy
 1979: 
 - Message in a Bottle
 - London Calling
-- 
+- Since Youve Been Gone
 1980: 
-- 
-- 
+- The Spirit of Radio
+- Romeo Delight
 - 
 1981: 
-- 
-- 
+- Witch Hunt
+- Sign of the Gypsy Queen
 - 
 1982: 
-- 
+- Pressure
 - 
 - 
 1983: 
@@ -105,14 +110,14 @@
 - 
 1984: 
 - Holding Out For A Hero
-- 
+- Ill Wait
 - 
 1985: 
-- 
-- 
+- Danger Calling
+- Brothers in Arms
 - 
 1986: 
-- 
+- Yankee Rose
 - 
 - 
 1987: 
@@ -120,7 +125,7 @@
 - 
 - 
 1988: 
-- 
+- Mother
 - 
 - 
 1989: 
@@ -128,7 +133,7 @@
 - 
 - 
 1990: 
-- 
+- That is Why
 - 
 - 
 1991: 
@@ -141,7 +146,7 @@
 - 
 1993: 
 - Mary Janes Last Dance
-- 
+- All Apologies
 - 
 1994: 
 - 
@@ -164,7 +169,7 @@
 - 
 - 
 1999: 
-- 
+- Learn to Fly
 - 
 - 
 2000: 
@@ -204,15 +209,15 @@
 - 
 - 
 2009: 
-- 
+- Oh Yeah
 - 
 - 
 2010: 
-- 
+- Barbra Streisand
 - 
 - 
 2011: 
-- 
+- Midnight in Harlem
 - 
 - 
 2012: 
@@ -264,8 +269,8 @@
 - 
 - 
 2024: 
-- 
-- 
+- Want to Love
+- Get On Now
 - 
 2025: 
 - 
